@@ -1,0 +1,42 @@
+.navbar {
+    background-color: aqua;
+    height: 80px;
+}
+
+.carousel {
+    background-color: bisque;
+    height: 350px;
+}
+
+.title1 {
+    background-color: brown;
+    height: 50px;
+}
+
+.item-service {
+    background-color: blueviolet;
+    height: 200px;
+    margin-left: 60px;
+
+}
+
+.background-story {
+    background-color: cornflowerblue;
+    border-radius: 60px;
+    height: 500px;
+}
+
+.visi-misi {
+    background-color: crimson;
+    height: 200px;
+}
+
+.sasaran {
+    background-color: blueviolet;
+    height: 200px;
+}
+
+.footer {
+    background-color: darkblue;
+    height: 50px;
+}
