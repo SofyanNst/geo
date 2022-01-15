@@ -4,8 +4,9 @@
 }
 
 .carousel {
-    background-color: bisque;
-    height: 350px;
+    background-image: url('assets/cover.png');
+    background-size: cover;
+    height: 30rem;
 }
 
 .title1 {
