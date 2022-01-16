@@ -261,6 +261,7 @@ body {
     .activity {
         background-color: #fff;
         border-radius: 60px;
+        width: 355px;
     }
 
     .content-activity {
