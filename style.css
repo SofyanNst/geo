@@ -27,7 +27,7 @@ body {
     background-image: url('assets/cover.png');
     background-size: cover;
     /* background-color: #1979cc; */
-    background-color: #00437D;
+    /* background-color: #00437D; */
     /* height: 490px; */
 }
 
@@ -132,4 +132,45 @@ body {
     background-color: #fff;
     border-radius: 60px;
     line-height: 6vh;
+}
+
+@media (max-width: 575.98px) {
+    .navbar-brand {
+        font-weight: 600;
+        font-size: 14px;
+    }
+
+    .cover-content {
+        background-image: url('assets/cover-smartphone-1.png');
+        background-size: cover;
+        /* background-color: #1979cc; */
+        /* background-color: #00437D; */
+        /* height: 490px; */
+    }
+
+    .big-title {
+        font-weight: 800;
+        font-size: 30px;
+        color: #F2B138;
+    }
+
+    .service {
+        margin-top: -30px;
+    }
+
+    .item-service {
+        width: 340px;
+        margin-bottom: 10px;
+    }
+
+    .item-service li {
+        font-size: 12px;
+        margin-left: 15px;
+    }
+
+    .item-title {
+        font-size: 20px;
+        font-weight: 700;
+        color: #012940;
+    }
 }
