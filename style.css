@@ -7,11 +7,47 @@ body {
     background-color: #012940;
 }
 
-.carousel {
+.navbar-brand {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.nav-link {
+    font-weight: 400;
+    font-size: 13px;
+}
+
+
+/* .carousel {
     background-image: url('assets/cover.png');
     background-size: cover;
     height: 30rem;
+} */
+.cover-content {
+    background-image: url('assets/cover.png');
+    background-size: cover;
+    /* background-color: #1979cc; */
+    background-color: #00437D;
+    /* height: 490px; */
 }
+
+.cover {
+    margin-top: 12vh;
+    margin-bottom: 15vh;
+}
+
+.big-title {
+    font-weight: 800;
+    font-size: 30px;
+    color: #012940;
+}
+
+.garis {
+    /* width: 650px; */
+    border: 3px solid #F34744;
+    margin-bottom: 20px;
+}
+
 
 .title-service h4 {
     color: #F34744;
@@ -56,8 +92,34 @@ body {
 }
 
 .visi-misi {
-    background-color: crimson;
-    height: 200px;
+    background-color: #fff;
+    /* height: 200px; */
+    border-radius: 30px;
+    margin-top: 10px;
+}
+
+.visi h2 {
+    font-weight: 900;
+    font-size: 36px;
+    color: #D94C1A;
+}
+
+.visi h3 {
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 7vh;
+    color: #454545;
+    margin-top: 70px;
+}
+
+.misi h2 {
+    font-weight: 900;
+    font-size: 36px;
+    color: #F2B138;
+}
+
+.misi li {
+    line-height: 6vh;
 }
 
 .sasaran {
