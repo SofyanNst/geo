@@ -143,9 +143,6 @@ body {
     .cover-content {
         background-image: url('assets/cover-smartphone-1.png');
         background-size: cover;
-        /* background-color: #1979cc; */
-        /* background-color: #00437D; */
-        /* height: 490px; */
     }
 
     .big-title {
@@ -207,5 +204,50 @@ body {
     .picture-background-story img {
         margin-top: -50px;
         border-radius: 20px;
+    }
+
+    .visi-misi {
+        width: 340px;
+        margin-bottom: 10px;
+    }
+
+    .visi h2 {
+        font-size: 28px;
+    }
+
+    .visi h3 {
+        font-size: 22px;
+        margin-top: 20px;
+        line-height: 5vh;
+    }
+
+    .misi h2 {
+        font-size: 28px;
+    }
+
+    .misi li {
+        margin-top: 20px;
+        font-size: 12px;
+        line-height: 5vh;
+    }
+
+    .sasaran {
+        width: 355px;
+    }
+
+    .title-sasaran {
+        font-size: 20px;
+        text-align: center;
+        margin-bottom: -20px;
+    }
+
+    .title-sasaran svg {
+        width: 40px;
+        height: 40px;
+    }
+
+    .content-sasaran {
+        font-size: 12px;
+        line-height: 5vh;
     }
 }
