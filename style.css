@@ -122,6 +122,21 @@ body {
     line-height: 6vh;
 }
 
+.title-activity {
+    font-size: 22px;
+    font-weight: 700;
+    color: #012940;
+}
+
+.activity {
+    background-color: #fff;
+    border-radius: 60px;
+}
+
+.content-activity {
+    line-height: 7vh;
+}
+
 .title-sasaran {
     font-size: 22px;
     font-weight: 700;
@@ -229,6 +244,28 @@ body {
         margin-top: 20px;
         font-size: 12px;
         line-height: 5vh;
+    }
+
+    .title-activity {
+        font-size: 20px;
+        font-weight: 700;
+        color: #012940;
+        text-align: center;
+    }
+
+    .title-activity svg {
+        width: 40px;
+        height: 40px;
+    }
+
+    .activity {
+        background-color: #fff;
+        border-radius: 60px;
+    }
+
+    .content-activity {
+        line-height: 5vh;
+        font-size: 12px;
     }
 
     .sasaran {
