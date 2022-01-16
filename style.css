@@ -159,7 +159,7 @@ body {
     }
 
     .item-service {
-        width: 340px;
+        width: 330px;
         margin-bottom: 10px;
     }
 
@@ -172,5 +172,40 @@ body {
         font-size: 20px;
         font-weight: 700;
         color: #012940;
+    }
+
+    .item-title svg {
+        width: 40px;
+        height: 40px;
+    }
+
+    .background-story {
+        width: 355px;
+    }
+
+    .title-background-story {
+        font-size: 20px;
+        font-weight: 700;
+        color: #012940;
+        text-align: center;
+    }
+
+    .title-background-story svg {
+        width: 40px;
+        height: 40px;
+    }
+
+    .background-story-content {
+        line-height: 5vh;
+        font-size: 12px;
+    }
+
+    .btn-primary {
+        font-size: 12px;
+    }
+
+    .picture-background-story img {
+        margin-top: -50px;
+        border-radius: 20px;
     }
 }
