@@ -122,12 +122,14 @@ body {
     line-height: 6vh;
 }
 
-.sasaran {
-    background-color: blueviolet;
-    height: 200px;
+.title-sasaran {
+    font-size: 22px;
+    font-weight: 700;
+    color: #012940;
 }
 
-.footer {
-    background-color: darkblue;
-    height: 50px;
+.sasaran {
+    background-color: #fff;
+    border-radius: 60px;
+    line-height: 6vh;
 }
