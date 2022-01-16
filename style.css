@@ -309,6 +309,10 @@ body {
         line-height: 5vh;
     }
 
+    .title-body-background-story {
+        margin-top: 15px;
+    }
+
     .body-background-story {
         background-color: #fff;
         border-radius: 60px;
